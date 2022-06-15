@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 ## 🛠 Skills
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-<img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=lqcit1051)](https://solved.ac/lqcit1051)
 
 <!--
