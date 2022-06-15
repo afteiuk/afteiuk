@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lqcit1051})](https://solved.ac/{lqcit1051})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=lqcit1051)](https://solved.ac/lqcit1051)
 
 <!--
 **afteiuk/afteiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
