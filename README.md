@@ -1,6 +1,7 @@
 ### 👋 Introduction
 
 - Seoul National University / B.S. in Computer Science and Engineering
+- Google Machine Learning Bootcamp 2022 Bootcamper
 
 #
 
